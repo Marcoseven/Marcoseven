@@ -12,9 +12,7 @@ Other technologies that I use: <br/>
 ![](https://img.shields.io/badge/-PHPMyAdmin-f89c0e?logo=phpmyadmin) ![](https://img.shields.io/badge/-GitHub-4c403b?logo=github) 
 
 Other languages, libraries and technologies that I would like to learn: <br/>
-![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30) ![](https://img.shields.io/badge/-Angular-da5617?logo=angular) 
-![](https://img.shields.io/badge/-Java-da5617?logo=java) ![](https://img.shields.io/badge/-Python-61DAFB?logo=python) 
-![](https://img.shields.io/badge/-Electron-f5f4ed?logo=electron)![](https://img.shields.io/badge/-Flutter-3585b6?logo=flutter)![](https://img.shields.io/badge/-ba2a2a?logo=dotnet)                             ![](https://img.shields.io/badge/-Csharp-fbf8e7?logo=c#)![](https://img.shields.io/badge/-Salesforce-2a80ba?logo=salesforce)![](https://img.shields.io/badge/-dbSQL-1e2ad1?logo)                                ![](https://img.shields.io/badge/-dbNoSQL-1e2ad1?logo)![](https://img.shields.io/badge/-Azure-2680df?logo=azure)![](https://img.shields.io/badge/-AWS-ba5938?logo=aws)
+![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30) ![](https://img.shields.io/badge/-Angular-da5617?logo=angular) ![](https://img.shields.io/badge/-Java-da5617?logo=java) ![](https://img.shields.io/badge/-Python-61DAFB?logo=python) ![](https://img.shields.io/badge/-Electron-f5f4ed?logo=electron) ![](https://img.shields.io/badge/-Flutter-3585b6?logo=flutter) ![](https://img.shields.io/badge/-ba2a2a?logo=dotnet) ![](https://img.shields.io/badge/-Csharp-fbf8e7?logo=c#) ![](https://img.shields.io/badge/-Salesforce-2a80ba?logo=salesforce) ![](https://img.shields.io/badge/-dbSQL-1e2ad1?logo) ![](https://img.shields.io/badge/-dbNoSQL-1e2ad1?logo) ![](https://img.shields.io/badge/-Azure-2680df?logo=azure) ![](https://img.shields.io/badge/-AWS-ba5938?logo=aws)
 
 
 
