@@ -11,7 +11,7 @@ Other technologies that I use: <br/>
 ![](https://img.shields.io/badge/-VSCode-4948af?logo=vscode) ![](https://img.shields.io/badge/-Figma-8b4d4b?logo=figma) 
 ![](https://img.shields.io/badge/-PHPMyAdmin-f89c0e?logo=phpmyadmin) ![](https://img.shields.io/badge/-GitHub-4c403b?logo=github) 
 
-Other languages, libraries and technologies that I would like to learn: <br/>
+Other languages that I would like to learn: <br/>
 ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30) ![](https://img.shields.io/badge/-Angular-da5617?logo=angular) 
 ![](https://img.shields.io/badge/-Java-da5617?logo=java) ![](https://img.shields.io/badge/-Python-61DAFB?logo=python) 
 ![](https://img.shields.io/badge/-C-f5f4ed?logo=c) ![](https://img.shields.io/badge/-C++-fbf8e7?logo=c) 
